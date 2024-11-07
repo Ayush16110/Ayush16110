@@ -11,10 +11,10 @@ I'm currently pursuing my **B.Tech in Computer Science and Engineering (CSE)** w
 
 ### Skills
 - **Frontend Development**: HTML, CSS, JavaScript, React
-<!--- **Full Stack Development**: Web development, API integration, Full-stack app development -->
 - **Cybersecurity Enthusiast**: Exploring red and blue team techniques
 - **Data Structures & Algorithms (DSA)**: Skilled in C++ for solving complex problems
 - **Open Source Contributor**: Actively contributing to various projects
+<!--- **Full Stack Development**: Web development, API integration, Full-stack app development -->
 
 <!--
 ---
