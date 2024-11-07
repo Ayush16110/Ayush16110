@@ -11,14 +11,15 @@ I'm currently pursuing my **B.Tech in Computer Science and Engineering (CSE)** w
 
 ### Skills
 - **Frontend Development**: HTML, CSS, JavaScript, React
-- **Full Stack Development**: Web development, API integration, Full-stack app development
+<!--- **Full Stack Development**: Web development, API integration, Full-stack app development -->
 - **Cybersecurity Enthusiast**: Exploring red and blue team techniques
 - **Data Structures & Algorithms (DSA)**: Skilled in C++ for solving complex problems
 - **Open Source Contributor**: Actively contributing to various projects
 
+<!--
 ---
 
-<!-- ### Projects
+### Projects
 - **[Portfolio Website](https://your-portfolio-link.com)**: Showcasing my development skills and projects.
 - **AI-Based Summarizer and Research Helper**: Currently developing a web app that leverages AI to assist with summarizing and research tasks.
 - **Hackathon Projects**: Participated in multiple hackathons, including a recent one on PM Vishwakarma themes.
