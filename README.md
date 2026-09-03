@@ -1,70 +1,29 @@
-# Hi there! 👋 I'm Ayush
+<h1 align="center">Hi 👋, I'm Ayush Narayan Gupta</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
 
-🚀 **B.Tech CSE Student | Full Stack Developer | Aspiring Cybersecurity Specialist**
+- 🔭 I’m currently working on [Project Management Platform](https://github.com/Ayush16110/project-management-backend)
 
----
+- 🌱 I’m currently learning **Langchain**
 
-### About Me
-I'm currently pursuing my **B.Tech in Computer Science and Engineering (CSE)** with a focus on **Data Structures and Algorithms (DSA)** in C++. I'm passionate about **web development** and have a keen interest in **cybersecurity**, aiming to master both the offensive (red team) and defensive (blue team) aspects. My goal is to build a strong skill set in these fields, contributing to meaningful projects and gaining valuable hands-on experience.
+- 👨‍💻 All of my projects are available at [https://ayush-narayan-gupta-portfolio.vercel.app/](https://ayush-narayan-gupta-portfolio.vercel.app/)
 
----
+- 💬 Ask me about **mongodb, express.js, react.js, node.js**
 
-### Skills
-- **Frontend Development**: HTML, CSS, JavaScript, React
-- **Cybersecurity Enthusiast**: Exploring red and blue team techniques
-- **Data Structures & Algorithms (DSA)**: Skilled in C++ for solving complex problems
-- **Open Source Contributor**: Actively contributing to various projects
-<!--- **Full Stack Development**: Web development, API integration, Full-stack app development -->
+- 📫 How to reach me **newayushgupta2017@gmail.com**
 
-<!--
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ayush-narayan-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-narayan-gupta" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/27555718/ayush-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27555718/ayush-gupta" height="30" width="40" /></a>
+<a href="https://instagram.com/ayushhhguptaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushhhguptaa" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ayush-narayan-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush-narayan-gupta" height="30" width="40" /></a>
+</p>
 
-### Projects
-- **[Portfolio Website](https://your-portfolio-link.com)**: Showcasing my development skills and projects.
-- **AI-Based Summarizer and Research Helper**: Currently developing a web app that leverages AI to assist with summarizing and research tasks.
-- **Hackathon Projects**: Participated in multiple hackathons, including a recent one on PM Vishwakarma themes.
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush16110&show_icons=true&locale=en&layout=compact" alt="ayush16110" /></p>
 
-### Interests
-- **Web Development**: Building responsive, dynamic web applications.
-- **Cybersecurity**: Diving into ethical hacking, red/blue team roles, and security research.
-- **Frontend Internships**: Looking for opportunities in front-end development, preferably with Webflow.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush16110&show_icons=true&locale=en" alt="ayush16110" /></p>
 
----
-
-### Get in Touch!
-- 📫 **Email**: newayushgupta2017@gmail.com
-- 💼 **LinkedIn**: https://www.linkedin.com/in/ayush-narayan-gupta/
-<!-- - 🌐 **Portfolio**: [Your Portfolio Link](https://your-portfolio-link.com) -->
-
----
-
-### GitHub Stats
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush16110&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush16110&layout=compact&theme=radical)
-
-
----
-
-<!-- ### Featured Projects
-Here are some visuals from my recent projects:
-
-#### Portfolio Website
-![Portfolio Website Screenshot](https://your-image-link.com/portfolio-screenshot)
-
-#### AI-Based Summarizer and Research Helper
-![AI-Based Summarizer Screenshot](https://your-image-link.com/ai-summarizer-screenshot)
--->
-
----
-
-### Current Goals
-- Gain expertise in **cybersecurity** within the next year.
-- Expand my knowledge in **full-stack development** and contribute to impactful open-source projects.
-- Secure an internship in **Frontend Development** using my skills in React and Webflow.
-
----
-
-Let's connect and collaborate on innovative projects!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush16110&" alt="ayush16110" /></p>
