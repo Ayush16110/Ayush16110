@@ -122,3 +122,4 @@ A desktop task management application built with C++ and Qt Widgets, evolving a 
 </p>
 
 *Always learning, building, and improving — one commit at a time.*
+.
